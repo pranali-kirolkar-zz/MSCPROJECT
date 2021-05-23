@@ -1,0 +1,203 @@
+Timestamp,Name,Age,Buy_Clothes,Type_Clothes,Brand_Clothes,Price,time_prefer ,prefer_purchasing ,compare_prices ,worst_experience,Rating 
+04-08-21 19:06,Bhairavi,18-25,Occasionally,"Jeans,Women Dress,Ladies Tops","NIKE,Adidas",500-700,During the sales,Online,YES,No,4
+04-08-21 19:11,Girish,18-25,Occasionally,"T-shirt,Jeans","NIKE,Adidas,H&M",700-1000,During the sales,Online,YES,Yes,3
+04-08-21 19:17,Mayuri katkar,18-25,Occasionally,"T-shirt,Jeans,Women Dress,Casual Dress,Ladies Tops","NIKE,Adidas,H&M,ZARA",200-500,During the sales,By them in Store,YES,Yes,3
+04-08-21 19:17,Harshali,18-25,Occasionally,Women Dress,NIKE,500-700,During the sales,By them in Store,YES,Yes,4
+04-08-21 19:20,Sadamast Nikita Shivaji,18-25,Occasionally,Women Dress,Meesho,500-700,Without the sales (Off Season),Online,YES,No,5
+04-08-21 19:21,Sonali,18-25,Regularly,Women Dress,H&M,500-700,During the sales,Online,YES,Yes,3
+04-08-21 19:24,Minal rambhau more,18-25,Regularly,T-shirt,NIKE,200-500,During the sales,Online,YES,Yes,4
+04-08-21 19:24,Sujata,25-35,Regularly,"Women Dress,Casual Dress,Ladies Tops","GUCCI,Adidas,H&M",700-1000,During the sales,By them in Store,YES,No,4
+04-08-21 19:31,Anuja,18-25,Occasionally,"T-shirt,Jeans,Women Dress,Casual Dress","Adidas,LEVIS",1000-above,Without the sales (Off Season),By them in Store,YES,No,4
+04-08-21 19:33,Sanskruti patil,18-25,Regularly,"T-shirt,Jeans,Ladies Tops","NIKE,Adidas,ZARA,LEVIS",500-700,During the sales,Online,YES,Yes,5
+04-08-21 19:34,Sanskruti patil,18-25,Regularly,"T-shirt,Jeans,Ladies Tops","NIKE,Adidas,H&M,ZARA,LEVIS",500-700,During the sales,Online,NO,Yes,5
+04-08-21 19:41,Dipak Maluskar,18-25,Occasionally,T-shirt,ZARA,700-1000,Without the sales (Off Season),By them in Store,YES,No,4
+04-08-21 19:45,Akash jade,18-25,Occasionally,"T-shirt,Jeans",NIKE,700-1000,Without the sales (Off Season),By them in Store,YES,Yes,5
+04-08-21 19:50,Divya Patil,18-25,Regularly,"T-shirt,Ladies Tops",LEVIS,500-700,During the sales,Online,YES,Yes,3
+04-08-21 19:54,Sumitra Gharal,18-25,Regularly,Jeans,Adidas,200-500,During the sales,By them in Store,YES,Yes,5
+04-08-21 19:56,Pranit Dattatray Patil,18-25,Occasionally,"T-shirt,Jeans,Casual Dress","NIKE,GUCCI,Adidas,LEVIS",700-1000,During the sales,Online,YES,No,4
+04-08-21 20:28,Priya kadukar ,18-25,Regularly,Short's ,Don't know ,700-1000,Without the sales (Off Season),Online,NO,No,5
+04-08-21 20:41,Bhairavi,18-25,Occasionally,"Jeans,Women Dress,Ladies Tops","NIKE,Adidas",500-700,During the sales,Online,YES,No,4
+04-08-21 20:49,Snehal Salunke,18-25,Regularly,"Jeans,Women Dress,Ladies Tops","ZARA,LEVIS",500-700,During the sales,By them in Store,YES,Yes,4
+04-08-21 20:53,Patil Pradnya Dattatraya,18-25,Regularly,T-shirt,Fasla,200-500,During the sales,By them in Store,YES,No,3
+04-08-21 20:56,Nikita Minde,18-25,Occasionally,"Women Dress,Ladies Tops",Adidas,200-500,During the sales,By them in Store,YES,Yes,3
+04-08-21 20:57,Srushti Raul ,18-25,Occasionally,"T-shirt,Jeans,Women Dress,Casual Dress,Ladies Tops","NIKE,H&M,ZARA,LEVIS",700-1000,During the sales,By them in Store,YES,Yes,5
+04-08-21 21:24,Vaibhav Thakre,18-25,Regularly,"T-shirt,Jeans,Casual Dress, Formal dress","NIKE,H&M,ZARA,LEVIS",700-1000,Without the sales (Off Season),By them in Store,YES,No,5
+04-08-21 21:27,Shobha patil,35-50,Regularly,"Jeans,Women Dress,Casual Dress,Ladies Tops","NIKE,GUCCI,Adidas,ZARA,LEVIS",500-700,During the sales,Online,YES,Yes,5
+04-08-21 21:30,Shubham ,18-25,Occasionally,"T-shirt,Jeans","NIKE,Adidas",500-700,During the sales,Online,YES,No,4
+04-08-21 21:52,Prathamesh,18-25,Occasionally,"T-shirt, Gents","NIKE,Adidas",1000-above,During the sales,Online,YES,No,5
+04-08-21 21:52,Tanvi,18-25,Regularly,"T-shirt,Women Dress,Casual Dress,Ladies Tops","Adidas,H&M,ZARA,LEVIS",1000-above,During the sales,Online,YES,Yes,5
+04-08-21 21:52,Pradeep,35-50,Occasionally,"T-shirt,Jeans",Local shops,700-1000,Without the sales (Off Season),By them in Store,YES,Yes,4
+04-08-21 21:53,Pradhnya,25-35,Regularly,"Women Dress,Casual Dress","GUCCI,Adidas,ZARA",500-700,During the sales,By them in Store,YES,No,3
+04-08-21 21:53,Chiku,18-25,Regularly,Casual Dress,"NIKE,ZARA",700-1000,During the sales,By them in Store,YES,No,3
+04-08-21 21:54,Kavya,25-35,Occasionally,"Casual Dress,Ladies Tops","GUCCI,Adidas,H&M,ZARA",500-700,During the sales,By them in Store,YES,No,4
+04-08-21 21:55,Nihal,18-25,Occasionally,"T-shirt,Jeans","NIKE,Adidas,LEVIS",700-1000,During the sales,By them in Store,YES,Yes,4
+04-08-21 22:09,Sayali Pawar,25-35,Regularly,"T-shirt,Jeans,Women Dress,Casual Dress,Ladies Tops","NIKE,Adidas,ZARA,LEVIS",500-700,During the sales,By them in Store,NO,No,5
+04-08-21 22:09,Sayali Pawar,25-35,Regularly,"T-shirt,Jeans,Women Dress,Casual Dress,Ladies Tops","NIKE,Adidas,ZARA,LEVIS",500-700,During the sales,By them in Store,NO,No,5
+04-08-21 22:10,Sayali,25-35,Regularly,"T-shirt,Jeans,Women Dress,Casual Dress,Ladies Tops","NIKE,Adidas,H&M,ZARA,LEVIS",500-700,During the sales,By them in Store,NO,No,5
+04-09-21 8:59,Tushar,18-25,Occasionally,"T-shirt,Jeans",NIKE,1000-above,Without the sales (Off Season),By them in Store,YES,Yes,5
+04-09-21 9:01,Aditya ,18-25,Occasionally,"T-shirt,Jeans","NIKE,Adidas",700-1000,During the sales,Online,NO,Yes,5
+04-09-21 9:03,Samarth ,18-25,Occasionally,"T-shirt,Jeans","NIKE,Adidas",500-700,During the sales,By them in Store,YES,Yes,5
+04-09-21 9:04,Mandar ,18-25,Regularly,"T-shirt,Jeans","NIKE,Adidas",700-1000,During the sales,By them in Store,YES,Yes,4
+04-09-21 9:05,Swarup ,18-25,Regularly,"T-shirt,Jeans","NIKE,Adidas,LEVIS",1000-above,During the sales,By them in Store,YES,Yes,5
+04-09-21 9:05,Swarup ,18-25,Regularly,"T-shirt,Jeans","NIKE,Adidas,LEVIS",1000-above,During the sales,By them in Store,YES,Yes,5
+04-09-21 9:07,Raj,18-25,Regularly,"T-shirt,Jeans","NIKE,Adidas",700-1000,During the sales,By them in Store,YES,Yes,4
+04-09-21 9:08,Om,18-25,Occasionally,"T-shirt,Jeans","NIKE,Adidas,LEVIS",700-1000,During the sales,By them in Store,YES,Yes,5
+04-09-21 9:08,Sahil,18-25,Occasionally,"T-shirt,Jeans","NIKE,GUCCI,Adidas",700-1000,During the sales,By them in Store,YES,Yes,5
+04-09-21 9:09,Rahul ,18-25,Occasionally,"T-shirt,Jeans","NIKE,Adidas",1000-above,During the sales,By them in Store,YES,Yes,5
+04-09-21 9:10,Sonya,18-25,Occasionally,"T-shirt,Jeans","NIKE,Adidas",1000-above,During the sales,By them in Store,YES,Yes,5
+04-09-21 9:11,Pratik ,18-25,Occasionally,"T-shirt,Jeans","NIKE,Adidas",1000-above,During the sales,By them in Store,YES,Yes,5
+04-09-21 9:12,Arjun,18-25,Occasionally,"T-shirt,Jeans","NIKE,Adidas",700-1000,During the sales,By them in Store,NO,Yes,5
+04-09-21 9:13,Pranav ,18-25,Occasionally,"T-shirt,Jeans","NIKE,Adidas",1000-above,During the sales,By them in Store,YES,Yes,5
+04-09-21 9:16,Rushikesh ,18-25,Occasionally,"T-shirt,Jeans","NIKE,Adidas",700-1000,During the sales,By them in Store,YES,Yes,5
+04-09-21 9:17,Mohashin ,18-25,Regularly,"T-shirt,Jeans","NIKE,GUCCI,Adidas,LEVIS",700-1000,During the sales,Online,YES,Yes,5
+04-09-21 9:18,Shahu ,18-25,Occasionally,"T-shirt,Jeans","NIKE,Adidas",700-1000,During the sales,By them in Store,YES,Yes,4
+04-09-21 9:20,Vardhan,18-25,Occasionally,"T-shirt,Jeans",Adidas,700-1000,During the sales,By them in Store,YES,Yes,5
+04-09-21 9:20,Varad ,18-25,Occasionally,"T-shirt,Jeans",NIKE,700-1000,During the sales,By them in Store,YES,Yes,5
+04-09-21 9:21,Dhiraj,18-25,Occasionally,"T-shirt,Jeans","NIKE,Adidas",700-1000,During the sales,Online,YES,Yes,5
+04-09-21 9:22,Atharv,18-25,Occasionally,"T-shirt,Jeans","NIKE,Adidas",700-1000,During the sales,By them in Store,YES,Yes,5
+04-09-21 9:24,Viraj,18-25,Occasionally,"T-shirt,Jeans","NIKE,Adidas",700-1000,During the sales,By them in Store,YES,Yes,5
+04-09-21 9:24,Shivam ,18-25,Occasionally,"T-shirt,Jeans","NIKE,Adidas",700-1000,During the sales,By them in Store,YES,Yes,5
+04-09-21 9:25,Jayshen,18-25,Occasionally,"T-shirt,Women Dress","NIKE,Adidas",700-1000,During the sales,By them in Store,YES,Yes,5
+04-09-21 9:27,Sidhesh,18-25,Occasionally,"T-shirt,Jeans","NIKE,Adidas",700-1000,During the sales,By them in Store,YES,Yes,5
+04-09-21 9:28,Sujit,18-25,Occasionally,"T-shirt,Jeans","NIKE,Adidas",700-1000,During the sales,By them in Store,YES,Yes,5
+04-09-21 9:29,Shoheb,18-25,Occasionally,"T-shirt,Jeans","NIKE,Adidas",700-1000,During the sales,By them in Store,YES,Yes,5
+04-09-21 9:29,Pratiraj,18-25,Regularly,"T-shirt,Jeans","NIKE,Adidas",1000-above,During the sales,By them in Store,YES,Yes,5
+04-09-21 9:30,Pratham,18-25,Occasionally,"T-shirt,Jeans","NIKE,Adidas",1000-above,During the sales,By them in Store,YES,Yes,5
+04-09-21 9:31,Abhishek,18-25,Occasionally,"T-shirt,Jeans","NIKE,Adidas",700-1000,During the sales,By them in Store,YES,Yes,5
+04-09-21 9:31,Niranjan,18-25,Occasionally,"T-shirt,Jeans","NIKE,Adidas",700-1000,During the sales,By them in Store,YES,Yes,5
+04-09-21 9:32,Srikant,18-25,Occasionally,"T-shirt,Jeans","NIKE,Adidas",700-1000,During the sales,By them in Store,YES,Yes,5
+04-09-21 15:35,Akshay Rajendra karanjkar,25-35,Occasionally,Casual Dress,NIKE,500-700,Without the sales (Off Season),By them in Store,YES,No,5
+04-10-21 16:29,Vandana,35-50,Regularly,"Women Dress,Casual Dress,Ladies Tops","NIKE,Adidas,LEVIS",700-1000,During the sales,Online,YES,No,3
+04-10-21 16:30,Prakash,50 - above,Occasionally,"T-shirt,Jeans","NIKE,Adidas",500-700,During the sales,By them in Store,YES,No,5
+04-10-21 16:30,Yashoda,35-50,Regularly,"T-shirt,Women Dress,Ladies Tops","NIKE,Adidas,ZARA,LEVIS",700-1000,During the sales,By them in Store,YES,No,5
+04-10-21 16:31,Vasant,35-50,Regularly,"T-shirt,Jeans,Casual Dress","NIKE,GUCCI,Adidas",700-1000,During the sales,By them in Store,YES,No,5
+04-10-21 16:31,Aanandi,35-50,Regularly,"Women Dress,Casual Dress,Ladies Tops","NIKE,Adidas,H&M,LEVIS",1000-above,During the sales,Online,YES,No,5
+04-10-21 16:32,Nivas,35-50,Regularly,"T-shirt,Jeans,Casual Dress","NIKE,GUCCI,Adidas",1000-above,During the sales,Online,YES,No,2
+04-10-21 16:32,Nita,25-35,Regularly,"T-shirt,Women Dress,Casual Dress,Ladies Tops","NIKE,GUCCI,H&M,ZARA",1000-above,During the sales,Online,YES,No,2
+04-10-21 16:32,Netaji,25-35,Regularly,"Jeans,Casual Dress","NIKE,LEVIS",1000-above,During the sales,Online,YES,No,3
+04-10-21 16:33,Suhas,25-35,Regularly,"T-shirt,Jeans,Women Dress,Casual Dress,Ladies Tops","NIKE,Adidas,H&M,LEVIS",1000-above,During the sales,Online,YES,No,1
+04-10-21 16:33,Priyanka,25-35,Regularly,"T-shirt,Jeans,Casual Dress","NIKE,Adidas",700-1000,During the sales,Online,NO,Yes,5
+04-10-21 16:34,Sandeep,25-35,Regularly,"T-shirt,Jeans",Adidas,500-700,During the sales,Online,YES,No,3
+04-10-21 16:34,Rupali,18-25,Regularly,"T-shirt,Women Dress,Casual Dress,Ladies Tops","NIKE,Adidas,ZARA,LEVIS",700-1000,During the sales,Online,YES,No,5
+04-10-21 16:35,Dayanand,25-35,Regularly,"T-shirt,Jeans",Adidas,700-1000,During the sales,Online,YES,No,3
+04-10-21 16:35,Sheetal,18-25,Regularly,"Women Dress,Ladies Tops","GUCCI,Adidas,H&M",700-1000,During the sales,Online,YES,No,5
+04-10-21 16:36,Sudesh,18-25,Regularly,"T-shirt,Jeans","GUCCI,Adidas",700-1000,During the sales,By them in Store,YES,No,5
+04-10-21 16:36,Priyansh,18-25,Regularly,"T-shirt,Jeans,Women Dress","NIKE,Adidas,H&M",700-1000,During the sales,Online,YES,No,5
+04-11-21 10:49,aakash ,18-25,Regularly,"T-shirt,Jeans,Casual Dress","Adidas,LEVIS",1000-above,During the sales,Online,YES,No,4
+04-11-21 10:50,sanket,18-25,Occasionally,"T-shirt,Jeans",NIKE,500-700,Without the sales (Off Season),By them in Store,YES,No,5
+04-11-21 10:51,sakshi,18-25,Regularly,"Women Dress,Casual Dress,Ladies Tops","Adidas,H&M",700-1000,During the sales,Online,YES,No,3
+04-11-21 10:52,vedanti,18-25,Regularly,"Women Dress,Casual Dress","Adidas,H&M",700-1000,During the sales,By them in Store,YES,No,4
+04-11-21 10:52,vaibhavi,18-25,Regularly,"Women Dress,Casual Dress","Adidas,H&M",700-1000,During the sales,By them in Store,YES,No,5
+04-11-21 10:53,ganesh,18-25,Regularly,"T-shirt,Jeans","NIKE,H&M",500-700,During the sales,Online,YES,No,5
+04-11-21 10:53,vighnesh,18-25,Occasionally,"Jeans,Casual Dress","Adidas,H&M",500-700,During the sales,Online,YES,No,5
+04-11-21 10:56,shaurya,18-25,Regularly,"Jeans,Women Dress",H&M,700-1000,During the sales,Online,YES,No,4
+04-11-21 10:57,shalaka ,18-25,Regularly,"Women Dress,Casual Dress","Adidas,H&M",500-700,During the sales,Online,YES,No,5
+04-11-21 10:57,sanika more,18-25,Regularly,"Jeans,Women Dress","Adidas,H&M",500-700,During the sales,By them in Store,YES,No,4
+04-11-21 10:58,Bharati More,18-25,Regularly,"T-shirt,Jeans,Women Dress","Adidas,H&M,LEVIS",700-1000,During the sales,Online,YES,No,5
+04-11-21 10:59,sadanant More,18-25,Regularly,"T-shirt,Jeans","Adidas,H&M",500-700,During the sales,Online,YES,No,5
+04-11-21 10:59,shailesh parabkar ,18-25,Regularly,"T-shirt,Jeans,Casual Dress","Adidas,H&M",1000-above,During the sales,Online,NO,No,5
+04-11-21 11:00,Sujit Parabkar ,18-25,Regularly,"T-shirt,Jeans","Adidas,H&M",1000-above,During the sales,Online,YES,No,5
+04-11-21 11:01,Prachi Gadage,18-25,Regularly,"Women Dress,Ladies Tops","Adidas,H&M",1000-above,During the sales,Online,YES,No,5
+04-11-21 11:03,Darshna Gurav,18-25,Regularly,"Women Dress,Casual Dress","Adidas,H&M",1000-above,During the sales,By them in Store,YES,No,4
+04-11-21 11:04,Darshna Banikol,18-25,Regularly,"Women Dress,Casual Dress","Adidas,LEVIS",1000-above,During the sales,Online,YES,No,5
+04-11-21 11:05,Dev,18-25,Regularly,"T-shirt,Jeans",LEVIS,700-1000,Without the sales (Off Season),Online,YES,No,3
+04-11-21 11:05,Aasha ,25-35,Occasionally,Casual Dress,H&M,700-1000,During the sales,By them in Store,YES,No,5
+04-11-21 11:07,Shamal Bhosale,18-25,Occasionally,"Women Dress,Casual Dress,Ladies Tops","Adidas,H&M",700-1000,Without the sales (Off Season),By them in Store,NO,No,2
+04-11-21 11:08,Swara ,18-25,Regularly,"Jeans,Women Dress,Casual Dress","Adidas,H&M",700-1000,Without the sales (Off Season),Online,YES,No,3
+04-11-21 11:09,Aadesh ,18-25,Regularly,"T-shirt,Jeans","Adidas,H&M",1000-above,During the sales,By them in Store,YES,No,2
+04-11-21 11:18,Neel ,18-25,Regularly,"T-shirt,Jeans","Adidas,H&M",700-1000,Without the sales (Off Season),Online,YES,No,5
+04-11-21 19:20,Neeta,18-25,Occasionally,"Women Dress,Casual Dress,Ladies Tops","NIKE,Adidas,ZARA",500-700,During the sales,Online,YES,No,4
+4/19/2021 21:17:42,Dev khetia,18-25,Occasionally,"T-shirt,Jeans,Casual Dress","NIKE,Adidas,H&M",700-1000,During the sales,Online,YES,No,5
+4/19/2021 21:18:22,Anas khan,18-25,Regularly,"T-shirt,Jeans","NIKE,Adidas,LEVIS",1000-above,During the sales,Online,YES,No,4
+4/19/2021 21:18:55,Yusuf khan,18-25,Occasionally,"T-shirt,Jeans","H&M,LEVIS",700-1000,During the sales,Online,YES,Yes,4
+4/19/2021 21:19:28,Durgesh patil,18-25,Regularly,"T-shirt,Jeans","NIKE,Adidas,H&M,LEVIS",700-1000,Without the sales (Off Season),Online,YES,Yes,4
+4/19/2021 21:20:03,Samvid patil,18-25,Regularly,"T-shirt,Jeans","NIKE,Adidas,H&M,LEVIS",1000-above,During the sales,Online,NO,No,4
+4/19/2021 21:20:41,Farhan khan,18-25,Occasionally,"T-shirt,Casual Dress","NIKE,GUCCI,Adidas,H&M,LEVIS",1000-above,During the sales,Online,YES,No,4
+4/19/2021 21:21:04,Praful patil,18-25,Regularly,"T-shirt,Jeans","GUCCI,Adidas,H&M",1000-above,During the sales,Online,NO,No,5
+4/19/2021 21:21:39,Gouri pawar,18-25,Occasionally,"Women Dress,Casual Dress,Ladies Tops","NIKE,Adidas,H&M,LEVIS",700-1000,During the sales,Online,YES,No,4
+4/19/2021 21:22:30,Darshana gurav,18-25,Regularly,"T-shirt,Women Dress,Casual Dress,Ladies Tops","NIKE,Adidas,H&M,ZARA",700-1000,During the sales,Online,YES,No,4
+4/19/2021 21:23:13,Mahima mandal,18-25,Regularly,"Women Dress,Casual Dress,Ladies Tops","Adidas,H&M,ZARA,LEVIS",700-1000,During the sales,Online,YES,Yes,4
+4/19/2021 21:23:52,Tejal diwane,25-35,Regularly,"T-shirt,Jeans,Women Dress,Casual Dress,Ladies Tops","NIKE,Adidas,H&M,ZARA,LEVIS",1000-above,During the sales,By them in Store,YES,No,5
+4/19/2021 21:24:22,Pooja diwe,25-35,Regularly,"Jeans,Women Dress,Ladies Tops","Adidas,H&M,ZARA,LEVIS",700-1000,Without the sales (Off Season),By them in Store,YES,No,5
+4/19/2021 21:24:51,Rutuja salekar,18-25,Regularly,"Jeans,Women Dress,Casual Dress,Ladies Tops","NIKE,Adidas,H&M,LEVIS",700-1000,Without the sales (Off Season),By them in Store,YES,No,5
+4/19/2021 21:25:25,Rasika nikam,18-25,Occasionally,"Women Dress,Casual Dress,Ladies Tops","H&M,ZARA,LEVIS",1000-above,Without the sales (Off Season),By them in Store,YES,Yes,5
+4/19/2021 21:26:18,Minal more,18-25,Occasionally,"Women Dress,Casual Dress","Adidas,H&M,ZARA,LEVIS",1000-above,During the sales,Online,YES,No,4
+4/19/2021 21:26:48,Abhilasha more,18-25,Occasionally,"Women Dress,Ladies Tops","Adidas,H&M,ZARA,LEVIS",1000-above,Without the sales (Off Season),By them in Store,YES,Yes,3
+4/19/2021 21:27:16,Manjusha kambale,25-35,Occasionally,"Women Dress,Casual Dress,Ladies Tops","ZARA,LEVIS",1000-above,Without the sales (Off Season),By them in Store,YES,No,5
+4/19/2021 21:27:43,Saloni kharat,18-25,Occasionally,"T-shirt,Jeans,Women Dress,Casual Dress","H&M,ZARA,LEVIS",1000-above,During the sales,Online,YES,No,5
+4/19/2021 21:28:12,Nikita pawar,18-25,Regularly,"Women Dress,Casual Dress","ZARA,LEVIS",700-1000,During the sales,Online,YES,No,5
+4/19/2021 21:28:51,Rahul chourasia,18-25,Occasionally,"T-shirt,Jeans","NIKE,Adidas,H&M",1000-above,Without the sales (Off Season),By them in Store,YES,No,5
+4/19/2021 21:29:46,Kunal sawant,25-35,Occasionally,"T-shirt,Jeans","NIKE,Adidas,H&M",1000-above,During the sales,Online,YES,Yes,4
+4/19/2021 21:30:17,Vaibhav gherade,18-25,Occasionally,"T-shirt,Jeans","NIKE,Adidas,H&M,LEVIS",1000-above,Without the sales (Off Season),By them in Store,YES,Yes,4
+4/19/2021 21:30:48,Nageshwar avhad,25-35,Regularly,"T-shirt,Jeans","NIKE,Adidas,H&M",1000-above,Without the sales (Off Season),By them in Store,YES,No,5
+4/19/2021 21:38:25,Mangal chikane,18-25,Occasionally,"Women Dress,Casual Dress","ZARA,LEVIS",700-1000,Without the sales (Off Season),By them in Store,YES,Yes,4
+4/19/2021 21:39:42,Ashwini pansare,18-25,Occasionally,"Women Dress,Casual Dress,Ladies Tops","GUCCI,ZARA,LEVIS",500-700,Without the sales (Off Season),By them in Store,YES,No,5
+4/19/2021 21:40:34,Ashwini darekar,18-25,Occasionally,"Jeans,Women Dress,Ladies Tops","GUCCI,ZARA,LEVIS",1000-above,Without the sales (Off Season),Online,YES,No,4
+4/19/2021 21:41:29,Bhagyashri pawar,25-35,Occasionally,"Women Dress,Casual Dress,Ladies Tops",ZARA,1000-above,Without the sales (Off Season),By them in Store,YES,No,5
+4/19/2021 21:41:56,Bhagyashri jadhav,18-25,Regularly,"Women Dress,Casual Dress,Ladies Tops","H&M,ZARA,LEVIS",1000-above,During the sales,Online,YES,No,5
+4/19/2021 21:42:45,Rushali patil,18-25,Occasionally,"Women Dress,Casual Dress,Ladies Tops","GUCCI,ZARA,LEVIS",1000-above,Without the sales (Off Season),By them in Store,YES,Yes,3
+4/19/2021 21:43:58,Akshada kharuse,18-25,Occasionally,"T-shirt,Jeans,Women Dress,Casual Dress,Ladies Tops, Saree","GUCCI,Adidas,H&M,ZARA,LEVIS",1000-above,Without the sales (Off Season),By them in Store,YES,No,5
+4/19/2021 21:44:43,Shubhangi chikne,18-25,Regularly,"T-shirt,Women Dress,Casual Dress,Ladies Tops","H&M,ZARA,LEVIS",1000-above,During the sales,Online,YES,No,4
+4/19/2021 21:47:22,Ankita patil,18-25,Regularly,"T-shirt,Jeans,Women Dress,Casual Dress,Ladies Tops","H&M,ZARA,LEVIS",1000-above,Without the sales (Off Season),Online,YES,No,5
+4/19/2021 21:48:03,Shivani khandekar,18-25,Occasionally,"Women Dress,Casual Dress,Ladies Tops","H&M,ZARA,LEVIS",700-1000,During the sales,Online,NO,No,5
+4/19/2021 21:48:55,Rutika sanas,18-25,Occasionally,"Women Dress,Casual Dress,Ladies Tops","GUCCI,ZARA,LEVIS",1000-above,During the sales,Online,YES,Yes,4
+4/19/2021 21:49:56,Ajay chikane,18-25,Occasionally,"T-shirt,Jeans","NIKE,Adidas,H&M",1000-above,During the sales,Online,YES,No,5
+4/19/2021 21:50:22,Tejas chikane,18-25,Regularly,"T-shirt,Jeans","NIKE,Adidas,H&M",700-1000,During the sales,Online,NO,No,4
+4/19/2021 21:51:09,Vikas vadkar,18-25,Occasionally,"T-shirt,Jeans","NIKE,Adidas,H&M",700-1000,During the sales,By them in Store,YES,Yes,3
+4/19/2021 21:51:48,Anisha sawale,25-35,Occasionally,"Women Dress,Casual Dress,Ladies Tops","GUCCI,ZARA,LEVIS",1000-above,During the sales,Online,NO,No,4
+4/19/2021 21:53:36,Aarati sawale,18-25,Regularly,"Women Dress,Ladies Tops","GUCCI,H&M,ZARA,LEVIS",700-1000,During the sales,Online,YES,No,4
+4/19/2021 21:54:02,Aniket sawale,18-25,Occasionally,"T-shirt,Jeans","NIKE,Adidas",1000-above,During the sales,Online,YES,Yes,4
+4/19/2021 21:54:26,Vinayak patil,18-25,Regularly,"T-shirt,Jeans","NIKE,Adidas,H&M,LEVIS",1000-above,During the sales,Online,YES,Yes,4
+4/19/2021 21:55:11,Mahesh jadhav,18-25,Occasionally,"T-shirt,Jeans","NIKE,Adidas,H&M",700-1000,Without the sales (Off Season),By them in Store,YES,Yes,4
+4/19/2021 21:56:02,Gitanjali gite,18-25,Regularly,"T-shirt,Jeans,Women Dress,Casual Dress,Ladies Tops","NIKE,Adidas,H&M,ZARA,LEVIS",1000-above,Without the sales (Off Season),By them in Store,YES,Yes,2
+4/19/2021 21:58:34,Abhishek kank,18-25,Regularly,"T-shirt,Jeans","NIKE,Adidas,H&M,LEVIS",1000-above,Without the sales (Off Season),By them in Store,YES,No,2
+4/19/2021 22:01:18,Aditi biramane,25-35,Occasionally,"Women Dress,Casual Dress,Ladies Tops","GUCCI,H&M,ZARA,LEVIS",1000-above,During the sales,Online,YES,No,4
+4/19/2021 22:10:24,Supriya vaybhase,18-25,Regularly,"Women Dress,Casual Dress,Ladies Tops",ZARA,1000-above,During the sales,Online,YES,No,5
+4/27/2021 9:41:44,Meera,18-25,Occasionally,"Women Dress,Casual Dress,Ladies Tops","NIKE,Adidas,H&M",700-1000,During the sales,Online,YES,No,5
+4/27/2021 9:45:51,Ganesh,25-35,Regularly,"T-shirt,Jeans","NIKE,Adidas",1000-above,During the sales,Online,YES,No,4
+4/27/2021 9:46:28,Gajanan ,18-25,Regularly,"T-shirt,Women Dress",NIKE,700-1000,Without the sales (Off Season),By them in Store,YES,No,5
+4/27/2021 9:47:05,Samarth,18-25,Regularly,"T-shirt,Jeans","NIKE,GUCCI,Adidas,H&M",700-1000,Without the sales (Off Season),By them in Store,YES,No,4
+4/27/2021 9:47:34,Shree,18-25,Regularly,"T-shirt,Jeans","NIKE,GUCCI,Adidas",700-1000,During the sales,Online,YES,No,5
+4/27/2021 9:48:39,Vihaan,18-25,Regularly,"T-shirt,Jeans","NIKE,GUCCI",1000-above,Without the sales (Off Season),By them in Store,YES,No,5
+4/27/2021 9:49:39,Pari,18-25,Regularly,"Women Dress,Casual Dress,Ladies Tops","NIKE,GUCCI,Adidas,H&M",1000-above,During the sales,Online,YES,No,3
+4/27/2021 9:54:14,Shreya,18-25,Regularly,"T-shirt,Women Dress,Casual Dress,Ladies Tops","NIKE,Adidas",700-1000,During the sales,Online,YES,No,4
+4/27/2021 9:56:21,Shilpa,18-25,Regularly,"T-shirt,Jeans","NIKE,GUCCI,Adidas",700-1000,Without the sales (Off Season),By them in Store,YES,No,4
+4/27/2021 10:02:11,Ashwini,25-35,Regularly,"Women Dress,Casual Dress,Ladies Tops","H&M,ZARA,LEVIS",700-1000,During the sales,Online,YES,No,3
+4/27/2021 10:03:09,Yusera,18-25,Regularly,"Women Dress,Casual Dress,Ladies Tops","Adidas,H&M,ZARA",1000-above,During the sales,Online,YES,No,3
+4/27/2021 10:03:51,Sumedha,18-25,Regularly,"Women Dress,Casual Dress,Ladies Tops","Adidas,H&M,ZARA",1000-above,During the sales,Online,YES,No,4
+4/27/2021 10:04:27,Vaishanvi,18-25,Occasionally,"Women Dress,Casual Dress,Ladies Tops","Adidas,H&M,ZARA",1000-above,Without the sales (Off Season),By them in Store,YES,No,5
+4/27/2021 10:05:01,Aishwarya,18-25,Regularly,"Women Dress,Casual Dress","Adidas,H&M",1000-above,During the sales,Online,YES,No,5
+4/27/2021 10:06:01,Ganya,18-25,Regularly,"T-shirt,Jeans","Adidas,H&M",1000-above,During the sales,By them in Store,YES,No,4
+4/27/2021 10:06:50,Pratiraj,18-25,Regularly,"T-shirt,Jeans","Adidas,H&M",700-1000,Without the sales (Off Season),By them in Store,YES,No,5
+4/27/2021 10:07:20,Aakash Patil,18-25,Regularly,"T-shirt,Jeans",NIKE,1000-above,During the sales,Online,YES,No,4
+4/27/2021 10:07:54,Shraddha,18-25,Regularly,"Women Dress,Casual Dress,Ladies Tops","NIKE,GUCCI,H&M,ZARA,LEVIS",1000-above,During the sales,Online,YES,No,4
+4/27/2021 10:08:22,Pranita,18-25,Regularly,"Women Dress,Casual Dress,Ladies Tops","Adidas,H&M",1000-above,During the sales,By them in Store,NO,No,4
+4/27/2021 10:08:52,Apeksha,18-25,Regularly,"Women Dress,Casual Dress,Ladies Tops","Adidas,H&M,ZARA",1000-above,During the sales,By them in Store,YES,No,4
+4/27/2021 10:09:27,Pratibha,18-25,Regularly,"Women Dress,Casual Dress",H&M,1000-above,During the sales,By them in Store,YES,No,5
+4/27/2021 10:10:44,Komal,18-25,Regularly,"Women Dress,Casual Dress",H&M,1000-above,During the sales,Online,YES,No,5
+4/27/2021 10:11:43,Ashwini,18-25,Regularly,"Women Dress,Casual Dress",H&M,1000-above,During the sales,Online,YES,No,5
+4/27/2021 10:12:55,Akshay Gaikwad,18-25,Regularly,"T-shirt,Jeans",Adidas,1000-above,During the sales,Online,YES,No,5
+4/27/2021 10:13:55,Manisha,18-25,Regularly,"Women Dress,Casual Dress",H&M,1000-above,Without the sales (Off Season),By them in Store,YES,No,5
+4/27/2021 10:14:29,Dipti,35-50,Regularly,Women Dress,H&M,1000-above,During the sales,By them in Store,YES,No,5
+4/27/2021 10:15:13,Dipali patil,35-50,Regularly,"Women Dress,Casual Dress",H&M,1000-above,During the sales,Online,NO,Yes,4
+4/27/2021 10:16:22,Nikita,18-25,Regularly,"Women Dress,Ladies Tops",H&M,1000-above,During the sales,Online,YES,No,3
+4/27/2021 10:16:56,Sangita,18-25,Regularly,Women Dress,H&M,1000-above,Without the sales (Off Season),By them in Store,YES,No,3
+4/27/2021 10:17:18,Pallavi,18-25,Regularly,Casual Dress,H&M,1000-above,Without the sales (Off Season),By them in Store,YES,No,5
+4/27/2021 10:17:43,Pooja,18-25,Regularly,Casual Dress,"Adidas,H&M",1000-above,During the sales,By them in Store,YES,No,5
+4/27/2021 10:18:19,Pooja Vashivale,18-25,Regularly,"Women Dress,Casual Dress,Ladies Tops","Adidas,H&M",1000-above,During the sales,Online,YES,No,5
+4/27/2021 10:18:47,Sonali pansare,18-25,Regularly,"Women Dress,Casual Dress",H&M,1000-above,Without the sales (Off Season),By them in Store,YES,No,4
+4/27/2021 10:19:18,Gauri,25-35,Regularly,"Women Dress,Casual Dress",H&M,700-1000,During the sales,Online,YES,No,4
+4/27/2021 10:40:43,Sonal,18-25,Regularly,"Jeans,Ladies Tops",H&M,1000-above,Without the sales (Off Season),Online,YES,No,4
+4/27/2021 10:46:48,Gayu,18-25,Regularly,"Women Dress,Casual Dress",H&M,1000-above,During the sales,By them in Store,YES,No,5
+4/27/2021 10:54:40,ajay,18-25,Regularly,Jeans,NIKE,1000-above,Without the sales (Off Season),By them in Store,YES,No,5
+4/27/2021 10:55:30,Ajinkya ,18-25,Regularly,"T-shirt,Jeans","Adidas,H&M",1000-above,During the sales,By them in Store,YES,No,4
+4/27/2021 10:56:15,Ajinkya bhise,18-25,Regularly,"T-shirt,Jeans",Adidas,700-1000,During the sales,Online,YES,Yes,3
+4/27/2021 10:56:54,Sunita,25-35,Regularly,"Women Dress,Casual Dress",H&M,1000-above,During the sales,By them in Store,YES,Yes,2
+4/27/2021 10:57:27,Sanjay,35-50,Occasionally,"T-shirt,Jeans",H&M,1000-above,Without the sales (Off Season),By them in Store,YES,No,4
+4/27/2021 10:58:12,Vaishali,25-35,Occasionally,Women Dress,H&M,700-1000,Without the sales (Off Season),Online,YES,No,1
+4/27/2021 10:59:39,Dattatray Patil,35-50,Occasionally,"T-shirt,Jeans",Adidas,1000-above,During the sales,By them in Store,YES,No,4
+4/27/2021 11:00:23,Rekha ,18-25,Occasionally,Casual Dress,H&M,500-700,During the sales,By them in Store,YES,No,4
+4/27/2021 11:00:47,Vaishali kokre,18-25,Regularly,"Women Dress,Casual Dress,Ladies Tops","Adidas,H&M",1000-above,During the sales,By them in Store,YES,No,4
+4/27/2021 11:01:10,Neeta ,18-25,Regularly,"T-shirt,Jeans,Ladies Tops",Adidas,700-1000,During the sales,By them in Store,YES,No,4
+4/27/2021 11:01:37,Sushant ,18-25,Occasionally,"T-shirt,Jeans",Adidas,700-1000,Without the sales (Off Season),By them in Store,NO,No,4
+4/27/2021 11:03:00,Suchita,35-50,Occasionally,"Women Dress,Casual Dress","H&M,ZARA",700-1000,During the sales,By them in Store,YES,Yes,4
